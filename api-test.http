@@ -1,0 +1,15 @@
+# en version
+GET https://raw.githubusercontent.com/fireinrain/chatgpt-prompts-sets/master/prompts-en.json
+Content-Type: application/json
+
+###
+
+# zh version
+GET https://raw.githubusercontent.com/fireinrain/chatgpt-prompts-sets/master/prompts-zh.json
+Content-Type: application/json
+
+###
+
+# zh-TW HK version
+GET https://raw.githubusercontent.com/fireinrain/chatgpt-prompts-sets/master/prompts-zh-TW.json
+Content-Type: application/json
